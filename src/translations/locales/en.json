@@ -1,0 +1,21 @@
+{
+  "tikal-center": "Tikal Center",
+  "tikal-center-desc": "Service for working with clients, which will save your time and money.",
+  "login": "Login",
+  "login2": "Login",
+  "logout": "logout",
+  "registration": "Registration",
+  "registration2": "Registration",
+  "users": "Users",
+  "users-list": "Users list",
+  "email": "Email",
+  "plans": "Plans",
+  "plan": "Plan",
+  "plan-empty": "no tariff plan selected",
+  "plan-select": "select tariff plan",
+  "plan-change": "change tariff plan",
+  "profile": "Profile",
+  "like": "Like",
+  "like-remove": "Remove like",
+  "likes": "Liked"
+}
